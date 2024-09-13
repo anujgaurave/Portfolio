@@ -310,8 +310,8 @@ transition: color .3s;
 .home__container{
   row-gap: 4rem;
   padding-top: 2rem;
-  /* display: flex; */
 }
+
 
 .home__data{
   row-gap: 1.5rem;
