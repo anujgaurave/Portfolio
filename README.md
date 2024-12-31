@@ -31,7 +31,7 @@ I am currently in my final year of **B.Tech (CSE)**. This portfolio highlights m
 This portfolio features a **Dark Mode** option, allowing users to toggle between light and dark themes for a comfortable browsing experience, especially in low-light environments.
 
 ## 📱 Mobile Responsiveness
-This portfolio is designed to provide a seamless experience across devices, ensuring smooth navigation and readability whether you're on a smartphone, tablet, or desktop.
+This portfolio is designed to provide a seamless experience across all devices, ensuring smooth navigation and readability whether you're on a smartphone, tablet, or desktop.
 
 ## 🌐 Live Demo
 Check out the live demo of my portfolio [here](https://anujgaurave.vercel.app).
