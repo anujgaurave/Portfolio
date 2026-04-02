@@ -1,4 +1,4 @@
-# Anuj Gaurave | Personal Portfolio
+# Anuj Gaurave | Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects as a **Computer Science Engineering** student and **Frontend Developer**. Built using **HTML**, **CSS**, and **JavaScript**, it is fully mobile-responsive and designed to provide a seamless experience across all devices.
 
